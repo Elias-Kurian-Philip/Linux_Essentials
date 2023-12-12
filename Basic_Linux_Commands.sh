@@ -13,4 +13,6 @@ pwd
 cd 
 #       cd - change  the  current  directory  to  dir.  The variable HOME is the default dir.
 
+mkdir
+#       mkdir - make directories.
 
