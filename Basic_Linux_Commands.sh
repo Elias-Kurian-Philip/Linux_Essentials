@@ -16,3 +16,9 @@ cd
 mkdir
 #       mkdir - make directories.
 
+su
+#       su - allows to run commands with a substitute user and group ID. 
+#            When called without arguements, su defaults to running an interactive shell as root.
+
+echo
+#       echo - outputs the arguements separated by spaces followed by a newline.
