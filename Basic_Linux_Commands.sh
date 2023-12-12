@@ -8,6 +8,9 @@ ls
 #       ls - list directory contents
 
 pwd
+#       pwd - shows the current / working directory. 
 
+cd 
+#       cd - change  the  current  directory  to  dir.  The variable HOME is the default dir.
 
 
