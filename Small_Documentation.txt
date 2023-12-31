@@ -1,0 +1,10 @@
+Linux Directory
+---------------
+        
+        1.      bin:    Bin is a directory in the Linux system that contains essential binary executable files. This directory contains 
+                        commands and programs that are necessary for the system to boot and run properly. These executable files are 
+                        accessible to all the users on the system.  
+        
+        2.      boot:   Boot is a directory in the Linux file system that contains files required for the system's boot process. It 
+                        contains the kernel which is the core of the operating system along with other boot-related files such as boot 
+                        loaders and configuration files.
